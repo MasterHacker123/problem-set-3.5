@@ -1,3 +1,29 @@
-h1 {
+* {
+  background-color: rgb(249, 249, 249);
+}
 
+h1 {
+  font-family: "Bai Jamjuree", serif;
+  font-size: 35px;
+  font-style: oblique;
+}
+
+h2 {
+  font-family: "Slabo 27px", serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "PT Serif", serif;
+  font-size: 17px;
+}
+
+a:hover {
+  color: rgb(11, 40, 68);
+}
+
+.Uimages {
+  width: 35%;
+  align: center;
 }

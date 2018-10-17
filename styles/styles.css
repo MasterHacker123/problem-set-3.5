@@ -6,6 +6,7 @@ h1 {
   font-family: "Bai Jamjuree", serif;
   font-size: 35px;
   font-style: oblique;
+  color: black;
 }
 
 h2 {
@@ -17,6 +18,12 @@ h2 {
 h3 {
   font-family: "PT Serif", serif;
   font-size: 17px;
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Bai Jamjuree", serif;
+  font-size: 15px;
 }
 
 a:hover {
@@ -25,5 +32,24 @@ a:hover {
 
 .Uimages {
   width: 35%;
-  align: center;
+  border: 3px solid black;
+}
+
+.CBimages {
+  width: 35%;
+  border: 3px solid black;
+}
+
+#FormulaOne {
+  width: 20%;
+  border: 3px solid black;
+}
+
+.Gimages {
+  width: 15%;
+}
+
+.GWimages {
+  width: 35%;
+  border: 3px solid black;
 }

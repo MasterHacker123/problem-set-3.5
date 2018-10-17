@@ -21,6 +21,11 @@ h3 {
   text-decoration: underline;
 }
 
+h4 {
+  font-family: "Slabo 27px", serif;
+  font-weight: bold;
+}
+
 p {
   font-family: "Bai Jamjuree", serif;
   font-size: 15px;
@@ -52,4 +57,18 @@ a:hover {
 .GWimages {
   width: 35%;
   border: 3px solid black;
+}
+
+#SubNavBar {
+  font-family: "Bai Jamjuree", serif;
+  font-size: 15px;
+}
+
+#ContentList {
+  font-family: "Bai Jamjuree", serif;
+  font-size: 15px;
+}
+
+img[class= CBimages] {
+  border-radius: 10px;
 }

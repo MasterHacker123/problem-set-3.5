@@ -116,3 +116,7 @@ footer {
 td {
   border: 2px solid black;
 }
+
+footer a {
+  font-size: small;
+}

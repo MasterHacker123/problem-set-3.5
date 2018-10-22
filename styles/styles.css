@@ -123,8 +123,10 @@ small {
 
 a[href="https://www.ucvts.tec.nj.us/domain/16#calendar4326/20181005/month"] {
   font-size: small;
+  font-style: oblique;
 }
 
 a[href="mailto:info@example.com"] {
   font-size: small;
+  font-style: oblique;
 }
